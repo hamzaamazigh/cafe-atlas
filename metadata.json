@@ -1,0 +1,7 @@
+{
+  "name": "Dades Rooftop - Best View in Dades Valley",
+  "description": "Experience the finest traditional and modern Moroccan cuisine with the most breathtaking rooftop view in Dades Valley. Book your sunset dinner today.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
